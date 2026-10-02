@@ -1,0 +1,8 @@
+# No third-party packages required.
+# Mythoskull Payload Builder uses only the Python standard library (Tkinter).
+#
+# Tkinter ships with the official python.org installers on Windows and macOS.
+# On Linux, install it with:  sudo apt install python3-tk
+#
+# Optional, only to build a standalone .exe:
+#   pyinstaller>=6.0
